@@ -41,4 +41,5 @@ All svg documents are are enclosed in ```<svg></svg>``` tags. <br>
 
 ### References
 - https://developer.mozilla.org/en-US/docs/Web/SVG <br>
+- https://www.youtube.com/watch?v=emFMHH2Bfvo - SVG in 100 seconds <br>
 - https://www.adobe.com/creativecloud/file-types/image/comparison/png-vs-svg.html <br>
