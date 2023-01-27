@@ -1,0 +1,20 @@
+<svg width="200" height="200" style="background-color:rgb(49, 99, 208)"
+        xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <polygon points="50,30 150,30 150,165 50,165" style="fill:rgb(227, 227, 228); stroke:black; stroke-width:1;">
+    <!-- from,to ==> 0,360 starting and end position, and x,y coordinates-->
+    <animateTransform attributeName="transform"
+            attributeType="XML" type="rotate" 
+            from="0 100 90" to="360 100 90"
+            dur="5s" repeatCount="indefinite" />
+    </polygon>
+
+    <!-- <image href="rutgers.png" x="30" y="20" height="200px" width="200px"/> -->
+    
+    <polygon points="50,30 150,30 150,165 50,165" fill-opacity="0.4" style="fill:rgb(227, 227, 228); stroke:black; stroke-width:1;">
+        <!-- from,to ==> 0,360 starting and end position, and x,y coordinates-->
+        <animateTransform attributeName="transform"
+                attributeType="XML" type="rotate" 
+                from="360 100 90" to="0 100 90"
+                dur="5s" repeatCount="indefinite" />
+        </polygon>
+</svg>
